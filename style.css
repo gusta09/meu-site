@@ -1,0 +1,40 @@
+body {
+    background: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 40px auto;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px #0001;
+    padding: 32px 24px;
+    text-align: center;
+}
+
+h1 {
+    color: #1a237e;
+    margin-bottom: 8px;
+}
+
+h2 {
+    color: #3949ab;
+    margin-top: 0;
+}
+
+.car-image {
+    margin: 24px 0;
+}
+
+.social a {
+    color: #1976d2;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.social a:hover {
+    text-decoration: underline;
+}
